@@ -1,0 +1,21 @@
+{
+  "name": "parse-time-strings",
+  "version": "0.0.1",
+  "description": "fixme",
+  "main": "parse-time-strings.js",
+  "repository": "git@github.com:folkforms/parse-time-strings.git",
+  "author": "folkforms <alan.bergin@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "release": "npm-release",
+    "test": "echo No tests yet..."
+  },
+  "dependencies": {
+    "shelljs": "^0.8.5"
+  },
+  "devDependencies": {
+    "@folkforms/line-endings": "^0.0.12",
+    "@folkforms/npm-release": "^0.0.26",
+    "jest": "^27.5.1"
+  }
+}
