@@ -1,7 +1,7 @@
 {
   "name": "parse-time-strings",
   "version": "0.0.1",
-  "description": "fixme",
+  "description": "Parse time strings into raw minutes e.g. '1h30m' -> '90'",
   "main": "parse-time-strings.js",
   "repository": "git@github.com:folkforms/parse-time-strings.git",
   "author": "folkforms <alan.bergin@gmail.com>",
